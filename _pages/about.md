@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Yet Another Travem Blog™️
+Yet Another Travel Blog™️
 
 Who knows where this blog will go? Follow and we shall see together.
 
